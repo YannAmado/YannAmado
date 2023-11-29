@@ -1,5 +1,5 @@
 #  Hi, i'm Yann Amado!
-<img align="right" alt="GIF" src="./imgs/neuralnet.gif" height=300px/>
+<img align="right" alt="Neural Network GIF" src="./imgs/neuralnet.gif" width=200px height=200px/>
 
 📚 I'm currently a CS undergraduate enthusiastic about Data and Machine Learning!
 
