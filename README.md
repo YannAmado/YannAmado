@@ -15,6 +15,6 @@
 
 ### Connect with me:
 
-[![My email](./img/gmail.svg)](yannamado.n@gmail.com)
+[![My email](./imgs/gmail.svg)](yannamado.n@gmail.com)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/yannamado)
+[![website](./imgs/linkedin.svg)](https://www.linkedin.com/in/yannamado)
