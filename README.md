@@ -1,16 +1,20 @@
-### Hi there 👋
+#  Hi, i'm Yann Amado!
+<img align="right" alt="GIF" src="./imgs/neuralnet.gif" height=300px/>
 
-<!--
-**YannAmado/YannAmado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I'm currently a CS undergraduate enthusiastic about Data and Machine Learning!
 
-Here are some ideas to get you started:
+🦀 Currently learning REST and looking forward to making some cool projects with it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌴 Some of my notable achievements are: GM in league, bench pressing 50kg and making a calculator in C!
+
+🍕 Fun fact: I'm a big language learning nerd!
+
+⌨ Languages:
+
+⚙ C  |  🐍 Python   
+
+### Connect with me:
+
+[![My email](./img/gmail.svg)](yannamado.n@gmail.com)
+&nbsp;&nbsp;
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/yannamado)
