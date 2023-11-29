@@ -13,7 +13,7 @@
 
 ⚙ C  |  🐍 Python   
 
-### Connect with me:
+## Connect with me:
 
 [![My email](./imgs/gmail.svg)](yannamado.n@gmail.com)
 &nbsp;&nbsp;
